@@ -3,7 +3,7 @@
  
  Usage:
  
- 1. Npm start
+ 1. Npm install
  2. Npm run dev
  
  example request: 
